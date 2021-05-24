@@ -6,6 +6,8 @@ global CSS file, restaurant icon (top-left), navigatinal drop-down menu, and foo
 In this project, I was respnsible for the design of the home page and the contact us feature. For the contact us feature, the input data values were validated
 so that the user does not submit non-nullable fields as empty.
 
+To view the locations.html page properly, use a valid Google Map API Key in line 10.
+
 ## Specification Testing
 To evaluate the requirements and QA considerations of a web page specification, I also conducted a specification testing for the form submission feature and wrote the [Specification Document](https://github.com/JalalQ/5103-Restaurant-Group/blob/main/Specification-Testing.pdf). 
 
